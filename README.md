@@ -1,6 +1,6 @@
 #Hello_world
 
-Hello_world is a test file where a problem definition relating to a simple machine learning problem as been attempted to solve.
+Hello_world is a test repository where a problem definition relating to a simple machine learning problem as been attempted to solve.
 
 FILE DESCRIPTION:
 
